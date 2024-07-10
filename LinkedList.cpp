@@ -12,7 +12,6 @@ void add_start(int x){
     
     (*n).p = head;
     head=n;
-    
 }
 void display(){
     node *temp = head;
